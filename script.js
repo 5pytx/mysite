@@ -67,4 +67,3 @@
         songCoverContainer.style.transition = '';
     }
   }
-/*3RD PAGE SLIDER */
